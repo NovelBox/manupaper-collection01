@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.0.1] - 2021-07-16
+### Added
+- project files
+- change log
 
-[Unreleased]: https://github.com/NovelBox/<repo>/compare/v0.0.9...HEAD
-[0.0.1]: https://github.com/NovelBox/<repo>/releases/v0.0.1
+[Unreleased]: https://github.com/NovelBox/manupaper-collection01/compare/v0.0.9...HEAD
+[0.0.1]: https://github.com/NovelBox/manupaper-collection01/releases/v0.0.1
